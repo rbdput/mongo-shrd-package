@@ -1,1 +1,1 @@
-# rbd-shrd-package
+# mongo-shrd-package
